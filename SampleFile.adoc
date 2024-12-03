@@ -1,0 +1,51 @@
+= My Document Title
+Luke Gipson
+:doctype: article
+:toc: left
+:imagesdir: ./images
+
+[.custom-color]
+== Introduction
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+== Heading 2
+
+
+* Maecenas id risus vitae libero placerat luctus.
+* Fusce in gravida nunc, mollis placerat urna.
+* Duis pellentesque elit eget lorem vehicula, quis feugiat nunc pulvinar.
+
+== Source Code Blocks
+
+[source,python]
+----
+def hello_world():
+    print("Hello, World!")
+----
+
+== Image examples
+.A Black Cat
+image::Blackcat-lilith.png[Black cat, 200,200]
+
+== Blocked out content
+Hello World
+
+=== Examples
+====
+Example Text
+====
+=== Sidebars
+****
+Side bar Content
+
+image::Blackcat-lilith.png[Black Cat, 200, 200]
+
+This is more side bar content
+****
+
+== Text Formatting
+Below are examples of how to format text
+
+=== Bold
+Put text between a pair of +++*+++ to *bold* it.
+
